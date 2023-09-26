@@ -1,3 +1,15 @@
-# Graphical_voicer
+<h1>Graphical Voicer App</h1>
 
-## A graphical version of the Voicer App. Using tkinter as UI
+> Status do projeto: em desenvolvimento
+
+O Voicer app permite que você selecione um idioma e obtenha em áudio o que está escrito em seu texto.
+Podemos dizer que é uma aplicação ideal para quem está aprendendo um novo idioma e tem dúvidas sobre pronúncia,
+também é um ótimo recurso de acessibilidade.
+
+> Bibliotecas necessárias:
+```
+pip install tk
+pip install gtts
+pip install ttkbootstrap
+pip install pygame
+```
